@@ -4,7 +4,7 @@
 - 🌱 Estudando MySQL
 - 😄 Pronomes: Ele/Dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Verneck&rank_icon=github&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Verneck&rank_icon=github&show_icons=true&count_private=true&theme=dracula)
 
 <div>
 <a href = "mailto:dev.matheus.verneck@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
