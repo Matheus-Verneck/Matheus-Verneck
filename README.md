@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Verneck&rank_icon=github&show_icons=true&count_private=true&theme=dracula)
 
 <div>
-  <a href="mailto: dev.matheus.verneck@gmail.com">
+  <a href="mailto: dev.matheus.verneck@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
   <a href="https://www.linkedin.com/in/matheusverneck/" target="_blank">
